@@ -2,6 +2,7 @@
 
 import os
 
+
 REL_PATH = os.path.relpath('../input/01', start=os.path.pardir)
 PATH = os.path.abspath(REL_PATH)
 
